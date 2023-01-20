@@ -11,10 +11,10 @@
 >为了社员们快速学习C++，基于[VLOOK](https://madmaxchow.gitee.io/vlook/)+[Typora](https://www.typora.io)开发的网站
 >
 
-> 代码托管：[![Github](https://cdn.jsdelivr.net/gh/MadMaxChow/VLOOKres/pic/github-light.svg?darksrc=github-dark.svg#logo)](https://github.com/MadMaxChow/VLOOK?lnkcss=none)
-
-[^VLOOK™]: VLOOK™ 是针对Typora跨平台 Markdown 编辑器）的 **主题包** 和 **增强插件**（针对导出的 HTML 文件)，更详细的特性详见[官网](https://madmaxchow.gitee.io/vlook/)。
-[^Typora]: Typora 是跨平台的 Markdown 编辑器（也许是目前最好的编辑器），支持直接预览与编辑，更详细的特性详见[官网](https://www.typora.io)。
+> 代码托管：[![Github](https://cdn.jsdelivr.net/gh/MadMaxChow/VLOOKres/pic/github-light.svg?darksrc=github-dark.svg#logo)](https://github.com/CalebHarris2023/com)
+>
+> [^VLOOK™]: VLOOK™ 是针对Typora跨平台 Markdown 编辑器）的 **主题包** 和 **增强插件**（针对导出的 HTML 文件)，更详细的特性详见[官网](https://madmaxchow.gitee.io/vlook/)。
+> [^Typora]: Typora 是跨平台的 Markdown 编辑器（也许是目前最好的编辑器），支持直接预览与编辑，更详细的特性详见[官网](https://www.typora.io)。
 
 > ###### 💡 你知道吗？
 >
@@ -28,15 +28,15 @@
 
 >　　　　　　　　###### C++竞赛基础教程
 >
->　　　　---
+>---
 >
->　　　　带你入门C++，学会最简单的程序设计。
+>带你入门C++，学会最简单的程序设计。
 >
->　　　　开发中...
+>开发中...
 >
->　　　　[<kbd>了解更多 ![](https://cdn.jsdelivr.net/gh/MadMaxChow/VLOOKres/pic/icon-forward.svg?fill=text#icon)</kbd>](guide1.md)
+>[<kbd>了解更多 ![](https://cdn.jsdelivr.net/gh/MadMaxChow/VLOOKres/pic/icon-forward.svg?fill=text#icon)</kbd>](guide1.md)
 >
->　　　　`>(green!)`
+>`>(green!)`
 
 > ######  C++竞赛提高教程
 >
@@ -90,6 +90,6 @@
 
 <img src="https://z4a.net/images/2023/01/19/mm_reward_qrcode.png" alt="mm_reward_qrcode.png" style="zoom: 67%;" />
 
-如有建议和需求，欢迎随时反馈～ [![VLOOK™ @ QQ Group](https://cdn.jsdelivr.net/gh/MadMaxChow/VLOOKres/pic/feedback-light.svg?darksrc=invert#logo)]()
+如有建议和需求，欢迎随时反馈～ [![VLOOK™ @ QQ Group](https://cdn.jsdelivr.net/gh/MadMaxChow/VLOOKres/pic/feedback-light.svg?darksrc=invert#logo)](https://github.com/CalebHarris2023/com/issues)
 
 # The End
