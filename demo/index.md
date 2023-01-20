@@ -1,3 +1,6 @@
+---
+vlook-welcome: <strong>C++编程教程</strong>
+---
 ###### <sub>C++编程教程</sub><br>让你更好地学习C++<br>──<br><sup>简介</sup><br>`#文档密级|内部公开#`<br><br><br>**陈名赫**<br>*C++编程社团*
 
 [TOC]
@@ -8,13 +11,13 @@
 
 `#OS|Windows#(blue)`
 
->为了社员们快速学习C++，基于[VLOOK](https://madmaxchow.gitee.io/vlook/)+[Typora](https://www.typora.io)开发的网站
->
+为了社员们快速学习C++，基于[VLOOK](https://madmaxchow.gitee.io/vlook/)+[Typora](https://www.typora.io)开发的网站
 
 > 代码托管：[![Github](https://cdn.jsdelivr.net/gh/MadMaxChow/VLOOKres/pic/github-light.svg?darksrc=github-dark.svg#logo)](https://github.com/CalebHarris2023/com)
 >
-> [^VLOOK™]: VLOOK™ 是针对Typora跨平台 Markdown 编辑器）的 **主题包** 和 **增强插件**（针对导出的 HTML 文件)，更详细的特性详见[官网](https://madmaxchow.gitee.io/vlook/)。
-> [^Typora]: Typora 是跨平台的 Markdown 编辑器（也许是目前最好的编辑器），支持直接预览与编辑，更详细的特性详见[官网](https://www.typora.io)。
+
+>VLOOK™：VLOOK™ 是针对Typora跨平台（Markdown 编辑器）的 **主题包** 和 **增强插件**（针对导出的 HTML 文件)，更详细的特性详见[官网](https://madmaxchow.gitee.io/vlook/)。
+>Typora： Typora 是跨平台的 Markdown 编辑器（也许是目前最好的编辑器），支持直接预览与编辑，更详细的特性详见[官网](https://www.typora.io)。
 
 > ###### 💡 你知道吗？
 >
