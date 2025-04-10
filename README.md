@@ -1,6 +1,6 @@
 # CppClubSite
 
-这是一个使用 [Vlook](https://vlook.js.org/) 主题构建的 C++ 教程网站，面向所有对 C++ 编程感兴趣的学习者和爱好者。
+这是一个使用 [Vlook](https://github.com/MadMaxChow/VLOOK) 构建的 C++ 教程网站，面向所有对 C++ 编程感兴趣的学习者和爱好者。
 
 📘 在线浏览：[https://calebharris2023.github.io/CppClubSite/](https://calebharris2023.github.io/CppClubSite/)
 
